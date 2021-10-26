@@ -5,9 +5,55 @@ date: "10/26/2021"
 output: html_document
 ---
 
+
+##This is just a general code output adjustment for the entire file
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
+
+##General Information Code
+```{r general, }
+#just a generalization of maybe the teams stats or just an introduction to the data file being observed by the team member/coach/manager etc...
+```
+
+
+# Aquiring data for each player in each category
+```{r Passing&Defense, }
+footpositioning = c(2,3)
+handpositioning = c(2,3)
+##Lower hips... and conintue on with each variable putting theyre scores in as a list for each variable name (footposition, handposition, etc...)
+```
+
+
+## Continue on for each variable... (Setting, Pulling etc... 
+```{r Setting, }
+earlypursuitPOP = c(1,4,5,...)
+squareshoulderstoatters = c(2,1,...)
+#continue... and so on, just don,t have the time to put it all together right now.
+
+## Okay, so then at the end of each individual code chunk... 
+
+# side note: I'm also thinking if it might be beneficial to have a code chunk for each player instead of each category in alphabetical order. This would make it more organized for each individual player to find theire stats. (obviously this would be more work in the long run but a better product for our team to conduct quicker evaluation on their play.)
+
+## Back to the main point obviously have some plots and graphs of the bench marks they want to reach like...
+
+earlypursuitPOPbenchmark = c(4,5,5,...) #so this would be compared to 
+earlypursuitPOP = c(1,4,5,...) #from earlier so you can compare where you are at and where you want to be.
+
+##But we could also do a numerical on the team or even between the groups of 2 for the duel partners.
+```
+
+## And so far that is all I have really had time to put together on my off time, but I'm excited to get this project going!!!
+
+# Best,
+## Kevin Cooke
+
+
+
+
+## All this stuff below is not important right now!!! ignore it for the time being
+
 
 ## R Markdown
 
